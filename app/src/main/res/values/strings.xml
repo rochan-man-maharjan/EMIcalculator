@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+    <string name="hint_principal">Principal Amount</string>
+    <string name="hint_interest">Interest rate per Month</string>
+    <string name="hint_years">How Many Months</string>
+    <string name="hint_emi">EMI</string>
+    <string name="hint_interest_total">Total Interest for EMI</string>
+</resources>
